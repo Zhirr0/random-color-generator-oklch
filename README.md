@@ -4,13 +4,13 @@ A beautiful, modern color generator built with React 19+ and Vite, featuring OKL
 
 ## Features
 
-- 🎨 Generate random colors in OKLCH color space
-- 🌈 Category-based color generation (red, orange, yellow, brown, green, cyan, blue, purple, pink)
-- 🔆 Generate lighter and darker shades (50 variations each)
-- ⚙️ Fine-tune colors with interactive settings
-- 📋 One-click copy to clipboard
-- 📱 Fully responsive design
-- ✨ Smooth animations and transitions
+- Generate random colors in OKLCH color space
+- Category-based color generation (red, orange, yellow, brown, green, cyan, blue, purple, pink)
+- Generate lighter and darker shades (50 variations each)
+- Fine-tune colors with interactive settings
+- One-click copy to clipboard
+- Fully responsive design
+- Smooth animations and transitions
 
 ## Tech Stack
 
@@ -32,11 +32,9 @@ src/
 │   ├── SettingsSection.jsx   # Color adjustment controls
 │   ├── ColorBox.jsx          # Individual color box component
 │   ├── CopyFeedback.jsx      # Copy notification
-│   └── *.css                 # Component-specific styles
 ├── utils/
 │   └── colorUtils.js         # Color generation utilities
-├── App.jsx                   # Root component
-├── App.css                   # Main app styles
+├── App.jsx                   # Root component               
 ├── main.jsx                  # Entry point
 └── index.css                 # Global styles
 ```

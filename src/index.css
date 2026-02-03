@@ -318,9 +318,9 @@ main::before {
 }
 
 .option-btn.lighter {
-  background: linear-gradient(135deg, #faeeda 0%, #dbdbd8 100%);
-  border: 2px solid #313131;
-  color: #141414;
+  background: linear-gradient(135deg, #313131 0%, #242424 100%);
+  border: 2px solid #dbdbd8;
+  color: white;
 }
 
 .option-btn.darker {

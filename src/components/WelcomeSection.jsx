@@ -7,10 +7,10 @@ function WelcomeSection({ onSelectCategory }) {
     { name: "yellow", label: "Yellow", className: "yellow" },
     { name: "brown", label: "Brown", className: "brown" },
     { name: "green", label: "Green", className: "green" },
-    { name: "cyan", label: "Cyan", className: "cyan" },
+    { name: "cyan", label: "Cyan & green", className: "cyan" },
     { name: "blue", label: "Blue", className: "blue" },
-    { name: "purple", label: "Purple", className: "purple" },
-    { name: "pink", label: "Pink", className: "pink" },
+    { name: "purple", label: "blue & purple", className: "purple" },
+    { name: "pink", label: "purple & pink", className: "pink" },
   ];
 
   return (
